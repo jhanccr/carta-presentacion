@@ -1,8 +1,9 @@
-@import "hero.css"; 
+@import "./hero.css"; 
+@import "./variables.css";
 
 .body {
   background-color: azure;
-  font-family: "EB Garamond", serif;
+  font-family: var(--primary-font-family);
   display:flex;
   justify-content: center;
   align-items: center;

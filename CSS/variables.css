@@ -1,0 +1,6 @@
+:root {
+    scroll-behavior: smooth;
+    --primary-theme-color: #20232a;
+    --secondary-theme-color: #282c34;
+    --primary-font-family:  'Inconsolata', monospace;
+  }

@@ -17,6 +17,10 @@
   color: cornsilk;
 }
 
+#hero h1 :hover{
+  color: black;
+}
+
 #hero h2 {
   margin: 0;
   padding: 0;
@@ -25,5 +29,5 @@
 #hero p {
   margin: 0;
   padding: 14px;
-  color: white;
+  color: cornsilk;
 }

@@ -1,12 +1,9 @@
 @import "hero.css"; 
 
 .body {
-  background-color: brown;
+  background-color: azure;
   font-family: "EB Garamond", serif;
   display:flex;
-  /* flex-direction: column; */
-  flex-wrap: wrap;
-  /* margin: 1.5ch 1.5ch 1.5ch 1.5ch; */
   justify-content: center;
   align-items: center;
 }
